@@ -1,6 +1,6 @@
 {
   "name": "@scipe/express-logger",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Yet another express logger",
   "main": "dist/index.js",
   "scripts": {
