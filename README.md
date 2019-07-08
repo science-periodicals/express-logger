@@ -1,5 +1,7 @@
 # @scipe/express-logger
 
+[![CircleCI](https://circleci.com/gh/science-periodicals/express-logger.svg?style=svg&circle-token=8b8da3f3d5a2c5412508defb01eb5d4117e5d3d8)](https://circleci.com/gh/science-periodicals/express-logger)
+
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 Note: this module is auto published to npm on CircleCI. Only run `npm version
